@@ -1,8 +1,20 @@
-p{
-    color: blue;
-    text-align: center;
+body{
+    margin: 0;
 }
 #header{
     height: 100px;
-    background-color: royalblue;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+}
+#headText{
+    text-align: center;
+    color: white;
+    font-family: "Microsoft YaHei";
+    font-size: 50px;
+    position: relative;
+    top:20px;
+}
+#main{
+
 }
